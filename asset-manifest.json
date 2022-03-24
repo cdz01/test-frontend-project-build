@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5015f66a.css",
+    "main.js": "/static/js/main.0899c555.js",
+    "static/media/binance.png": "/static/media/binance.646a678f2f5cdd4635d6.png",
+    "static/media/bitcoin.png": "/static/media/bitcoin.df9bb5cf7ae742ae2b5e.png",
+    "static/media/cloud-network.png": "/static/media/cloud-network.6bd8a884104a31ce30a8.png",
+    "static/media/lapiz.png": "/static/media/lapiz.3c38fb23c581f31081f0.png",
+    "static/media/trading.png": "/static/media/trading.34f55e33c62748ccb296.png",
+    "index.html": "/index.html",
+    "main.5015f66a.css.map": "/static/css/main.5015f66a.css.map",
+    "main.0899c555.js.map": "/static/js/main.0899c555.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5015f66a.css",
+    "static/js/main.0899c555.js"
+  ]
+}
